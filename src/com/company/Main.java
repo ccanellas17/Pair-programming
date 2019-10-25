@@ -20,7 +20,7 @@ public class Main {
         BufferedReader reader = new BufferedReader(r);
 
         //Create a FileWriter for the sorted dictionary
-        FileWriter writer = new FileWriter("C:\\Users\\Marlene\\Workspace\\IHATELIFE\\src\\com\\company\\testOutput.txt");
+        FileWriter writer = new FileWriter("/Users/carlos/IdeaProjects/pair-programming/unsorteddict.txt");
 
         }
 
